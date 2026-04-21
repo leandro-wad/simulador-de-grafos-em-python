@@ -115,7 +115,7 @@ simulador-grafos/
 | Nome | GitHub |
 |---|---|
 | Leandro Rodrigues | [@leandro](https://github.com/leandro-wad) |
-| Lucas Bitencourt | [@lucas](https://github.com/bitenc_) |
+| Lucas Bitencourt | [@lucas](https://github.com/Bitencourt9) |
 
 ---
 
